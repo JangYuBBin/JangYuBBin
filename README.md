@@ -1,7 +1,7 @@
 ### Hi there 👋 I`m JangYuBin..!!
 
 ### 🌱 I’m currently learning Computer Science
-### 🌱 I’m currently learning Data Structure and their Algorithm with Python
+### 🌱 I’m currently learning Data Structure and their Algorithm with Python and C
 ### 💻 I`m currently learning Git & GitHub..!!
 
 ### 💻 Skills : 
